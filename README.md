@@ -193,9 +193,10 @@ ai-support-chatbot/
 
 ---
 
-## 📸 Screenshots
+## 🎥 Demo Video
 
-*Add screenshots here (UI, form, generated PDF preview)*
+https://github.com/user-attachments/assets/eac6b467-1db3-47ce-9560-36455be785b7
+
 
 ---
 
