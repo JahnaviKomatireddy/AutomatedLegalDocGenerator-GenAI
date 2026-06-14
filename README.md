@@ -80,8 +80,8 @@ User Input → Frontend (Next.js) → API Call → Flask Server → GPT4All Mode
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/pulijayanth/automated-legal-document-generator-genai.git
-cd automated-legal-document-generator-genai
+git clone  https://github.com/JahnaviKomatireddy/AutomatedLegalDocGenerator-GenAI.git
+cd AutomatedLegalDocGenerator-GenAI
 ```
 
 ---
