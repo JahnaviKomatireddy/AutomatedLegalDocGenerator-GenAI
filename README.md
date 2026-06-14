@@ -1,10 +1,10 @@
-# 📄 Automated Legal Document Generator using Generative AI
+## Automated Legal Document Generator using Generative AI
 
 An AI-powered web application that generates professional legal documents instantly using a local Large Language Model (GPT4All). The system converts user inputs into structured legal agreements and exports them as downloadable PDF files.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project simplifies the process of drafting legal documents by automating it using Generative AI.
 
@@ -28,9 +28,9 @@ The application uses an **offline LLM (GPT4All)**, ensuring:
   * Power of Attorney
   * Service Agreement
 
-* 🧠 AI-powered content generation using GPT4All (Mistral model)
+*  AI-powered content generation using GPT4All (Mistral model)
 
-* 📝 Structured legal format with sections:
+*  Structured legal format with sections:
 
   * Introduction
   * Definitions
@@ -38,15 +38,15 @@ The application uses an **offline LLM (GPT4All)**, ensuring:
   * Governing Law
   * Signatures
 
-* 📥 Automatic PDF generation with professional formatting
+*  Automatic PDF generation with professional formatting
 
-* 🔐 Secure backend API integration
+*  Secure backend API integration
 
-* ⚡ Fast and responsive UI
+*  Fast and responsive UI
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -69,13 +69,13 @@ The application uses an **offline LLM (GPT4All)**, ensuring:
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 User Input → Frontend (Next.js) → API Call → Flask Server → GPT4All Model → Text Processing → PDF Generation → Download
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 
@@ -149,7 +149,7 @@ npm run dev
 
 ---
 
-## 🧪 How It Works
+##  How It Works
 
 1. User selects a legal document type
 2. Inputs required details in the form
@@ -161,7 +161,7 @@ npm run dev
 
 ---
 
-## 📊 Key Highlights
+##  Key Highlights
 
 * ⏱️ Reduced document drafting time by **~70%**
 * 🔒 Fully offline AI system (no API usage)
@@ -170,7 +170,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-support-chatbot/
@@ -193,14 +193,14 @@ ai-support-chatbot/
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 https://github.com/user-attachments/assets/eac6b467-1db3-47ce-9560-36455be785b7
 
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Add more legal document templates
 * Integrate RAG for better accuracy
@@ -209,15 +209,8 @@ https://github.com/user-attachments/assets/eac6b467-1db3-47ce-9560-36455be785b7
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Jayanth Puli**
+**Komatireddy Laxmi Jahnavi**
 
-* GitHub: https://github.com/pulijayanth
-* LinkedIn: https://linkedin.com/in/jayanth-puli-6161ba273
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
+* GitHub: https://github.com/JahnaviKomatireddy
